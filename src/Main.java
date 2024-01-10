@@ -575,6 +575,7 @@ public class Main {
     //randomise the list before we start sorting, so we get different results every time when we generate outfit
     public static void RandomiseList(Clothing[] list) {
         int index;
+        //temp variable
         Clothing temp;
         Random random = new Random();
 
