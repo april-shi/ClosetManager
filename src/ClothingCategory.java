@@ -1,10 +1,10 @@
 public enum ClothingCategory {
 
     ACCESSORY,
-    TOP, //1
-    BOTTOM, //2
+    TOP,
+    BOTTOM,
     OUTERWEAR,
     FOOTWEAR,
-    DRESS, //5
+    DRESS,
 
 }
