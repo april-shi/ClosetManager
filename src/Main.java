@@ -50,8 +50,8 @@ public class Main {
                     isDone = true;
                 }
                 case "4" -> { //quits
-                    isDone = true;
                     quit();
+                    isDone = true;
                 }
                 default -> System.out.println("I don't understand, please input again.");
             }
@@ -355,7 +355,7 @@ public class Main {
                 case "3" -> {
                     //quits
                     isDone = true;
-                    //LandingPage();
+                    LandingPage();
                 }
                 default -> System.out.println("I don't understand, please input again.");
             }
